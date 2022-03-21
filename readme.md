@@ -1,15 +1,19 @@
+# Twitter Deepfake detector Bot
+
+- Developed twitter bot combining AI and crowdsourcing to detect deepfake videos and stop social disinformation
+- Created Storyboard and Mock UI to visualize the interface interaction using **Figma** tool
+- Trained AI model (**Efficient-Net**) using Facebook’s Deepfake Detection Challenge Dataset for video classification
 
 \
-Python Packages used: Pytorch, scikit-learn, Tensorboard, pandas, numpy, matplotlib, scipy, os, pickle, itertools
+Python Packages used: **Pytorch, tweepy (twitter API), requests, urllib, beautifulsoup, os, time, regex, moviepy, logging**
 \
-Other technologies involved: Git, vectorized/matrix implementation
-\
+Other technologies involved: Git, Toloka.ai crowdsourcing platform, 
+
 
 - Presentation file : Social Disinformation detection – deepfake detector bot.pptx
 - Presentation Video link: https://drive.google.com/file/d/1cfO5VzDlcqYAszBvIzfuWSpCSRr_Y6s4/view?usp=sharing
 - Twitter API + AI module code: deepfake_twitter_bot.ipynb
 - Toloka API (pseudocode): crowd_source_interaction (pseudo_code).ipynb
-\
 
 References:
 - Deepfake Model weights and code: https://github.com/selimsef/dfdc_deepfake_challenge

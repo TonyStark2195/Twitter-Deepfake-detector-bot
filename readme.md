@@ -1,7 +1,15 @@
+
+\
+Python Packages used: Pytorch, scikit-learn, Tensorboard, pandas, numpy, matplotlib, scipy, os, pickle, itertools
+\
+Other technologies involved: Git, vectorized/matrix implementation
+\
+
 - Presentation file : Social Disinformation detection – deepfake detector bot.pptx
 - Presentation Video link: https://drive.google.com/file/d/1cfO5VzDlcqYAszBvIzfuWSpCSRr_Y6s4/view?usp=sharing
 - Twitter API + AI module code: deepfake_twitter_bot.ipynb
 - Toloka API (pseudocode): crowd_source_interaction (pseudo_code).ipynb
+\
 
 References:
 - Deepfake Model weights and code: https://github.com/selimsef/dfdc_deepfake_challenge

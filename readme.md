@@ -22,10 +22,13 @@ The files training folder, config.py and kernel_utils.py are from the original s
 
 In order to run the 'deepfake_twitter_bot.ipynb' code, weights need to be downloaded from the link below:
 https://drive.google.com/drive/folders/1uH84jIbhK9qYnfjPqFhLT1qCtt5vWqFI?usp=sharing
+\
 The weights can be placed in the empty folder weights provided with the zip.
 
 If not the sourcecode github link can be used to follow but it is very time consuming!
+\
 https://github.com/selimsef/dfdc_deepfake_challenge
 
 Link for sample data's to test:
+\
 https://drive.google.com/drive/folders/10t9Ksuo6zeNLR3YufbG6_27a2WBqHB3o?usp=sharing

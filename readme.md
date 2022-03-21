@@ -7,7 +7,7 @@
 \
 Python Packages used: **Pytorch, tweepy (twitter API), requests, urllib, beautifulsoup, os, time, regex, moviepy, logging**
 \
-Other technologies involved: Git, Toloka.ai crowdsourcing platform, 
+Other technologies involved: **Git, Toloka.ai crowdsourcing platform** 
 
 
 - Presentation file : Social Disinformation detection – deepfake detector bot.pptx
